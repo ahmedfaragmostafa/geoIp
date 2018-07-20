@@ -82,5 +82,4 @@ class  GeoIp extends BaseIp
 
         return $info;
     }
-
 }
