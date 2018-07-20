@@ -1,0 +1,29 @@
+{
+  "name": "ahmedfaragmostafa/geo-ip",
+  "description": "get geo information for IP Address",
+  "authors": [
+    {
+      "name": "Ahmed Farag",
+      "email": "ahmedfaragmostafa@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Src\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Tests\\": "tests/"
+    }
+  },
+  "require": {
+    "php": ">=7.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6.2"
+  },
+  "config": {
+    "sort-packages": true
+  }
+}
