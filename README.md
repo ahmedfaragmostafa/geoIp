@@ -38,4 +38,4 @@ $ipInfo->getOrg(); //Falco Networks
 
 
 ### Tests
-    $ vendor/bin/phpunit tests
+     vendor/bin/phpunit tests
