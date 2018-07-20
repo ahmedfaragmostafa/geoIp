@@ -16,7 +16,7 @@ class BaseIp implements IpAddressInterface
     protected $lat;
     protected $lon;
     protected $org;
-    protected $ip;
+    protected $query;
     protected $region;
     protected $regionName;
     protected $status;
@@ -240,7 +240,7 @@ class BaseIp implements IpAddressInterface
      */
     public function getIp(): string
     {
-        return (string)$this->ip;
+        return (string)$this->query;
     }
 
     /**
@@ -253,7 +253,7 @@ class BaseIp implements IpAddressInterface
      */
     public function setIp(string $ip)
     {
-        $this->ip = $ip;
+        $this->query = $ip;
 
         return $this;
     }
