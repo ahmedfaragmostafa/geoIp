@@ -1,4 +1,7 @@
+[![Build Status](https://travis-ci.org/ahmedfaragmostafa/geoIp.svg?branch=master)](https://travis-ci.org/ahmedfaragmostafa/geoIp)
+
 ## GEO IP 
+
 The Easiest way to Get all information about an IP Address using http://ip-api.com
 
 ## Install 
