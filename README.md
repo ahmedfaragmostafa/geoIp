@@ -10,13 +10,13 @@ composer require "ahmedfaragmostafa/geo-ip":"dev-master"
 ```
 
 ## Get Stared
-```
+``` php
 use \Src\GeoIp;
  $ipInfo = new GeoIp('IP_ADDRESS'); 
 ```
 
 ## Example 
-```
+``` php
 $ipInfo = new \Src\GeoIp('85.203.13.62');
 
 $ipInfo->getCountry(); //France
