@@ -8,6 +8,7 @@ composer require "ahmedfaragmostafa/geo-ip":"dev-master"
 
 ## Get Stared
 ```
+use \Src\GeoIp;
  $ipInfo = new GeoIp('IP_ADDRESS'); 
 ```
 
