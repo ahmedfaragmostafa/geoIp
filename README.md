@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ahmedfaragmostafa/geoIp.svg?branch=master)](https://travis-ci.org/ahmedfaragmostafa/geoIp) [![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/ahmedfaragmostafa/geoIp/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/ahmedfaragmostafa/geoIp/)
+[![Build Status](https://travis-ci.org/ahmedfaragmostafa/geoIp.svg?branch=master)](https://travis-ci.org/ahmedfaragmostafa/geoIp) [![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/ahmedfaragmostafa/geoIp/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/ahmedfaragmostafa/geoIp/) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ## GEO IP 
 
